@@ -1,10 +1,32 @@
 # Finest Brews
 A list of the most poured bottles
 
+## Index
+1. [Install Brew](#install-brew)
+2. [List](#list)
+    - [Editors](#editors)
+    - [Files](#files)
+    - [Graphics](#graphics)
+    - [Mail](#mail)
+    - [Mobile](#mobile)
+    - [Music](#music)
+    - [Network](#network)
+    - [P2P](#p2p)
+    - [Radio](#radio)
+    - [Raspberry Pi](#raspberry-pi)
+    - [Research](#research)
+    - [Social](#social)
+    - [Utilities](#utilities)
+    - [Video](#video)
+    - [Web](#web)
+    
+
 ## Install Brew
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+## List
 
 ### Editors
 ```
