@@ -113,4 +113,5 @@ brew install --cask vlc
 ### Web
 ```
 brew install --cask firefox
+brew install wget
 ```
